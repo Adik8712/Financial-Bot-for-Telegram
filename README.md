@@ -25,6 +25,7 @@ pip install -r requirements.txt
 4. Создай файл `config.ini` и добавь туда следующие настройки:
 
 ```ini
+[Telegram]
 TOKEN_KEY = 'your_telegram_bot_token'
 ```
 
